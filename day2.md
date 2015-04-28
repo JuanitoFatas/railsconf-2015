@@ -27,7 +27,7 @@
 - Burn Rubber Does Not Mean Warp Speed
   by Bree Thomas
 
-- Curly — Rethinking the view layer
+- [Curly — Rethinking the view layer](https://speakerdeck.com/dasch/curly-rethinking-the-view-layer)
   by Daniel Schierbeck
 
 - Leveraging Microsoft Azure from Ruby
@@ -73,7 +73,7 @@
 - Why Your New API Product Will Fail
   by Scott Feinberg
 
-- What If Shakespeare Wrote Ruby?
+- [What If Shakespeare Wrote Ruby?](https://speakerdeck.com/acuppy/what-if-shakespeare-wrote-ruby)
   by Adam Cuppy
 
 - Implementing a visual CSS testing framework
