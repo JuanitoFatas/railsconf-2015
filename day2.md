@@ -58,7 +58,7 @@
  [Video](#)
   by Dan Kozlowski, Colin Kelley
 
-- Crossing the Canyon of Cognizance: A Shared Adventure [Video](#)
+- [Crossing the Canyon of Cognizance: A Shared Adventure](https://speakerdeck.com/pwnela/crossing-the-canyon-of-cognizance-a-shared-adventure) [Video](#)
   by Pamela O. Vickers
 
 - Crossing the Bridge: Connecting Rails and Your Front-End Framework [Video](#)
@@ -67,7 +67,7 @@
 - Heroku: A Year in Review [Video](#)
   by Terence Lee
 
-- Ruby on Rails on Minitest [Video](#)
+- [Ruby on Rails on Minitest](http://www.zenspider.com/pdf/2015_railsconf_ruby_on_rails_on_minitest.pdf) [Video](#)
   by Ryan Davis
 
 - Why Your New API Product Will Fail [Video](#)
