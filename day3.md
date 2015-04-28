@@ -1,6 +1,6 @@
 ## Day 3
 
-- What Comes After MVC
+- [What Comes After MVC](https://speakerdeck.com/pushcx/what-comes-after-mvc-railsconf-2015)
   by Peter Harkins
 
 - Designing a Great Ruby API - How We're Simplifying Rails 5
@@ -24,7 +24,7 @@
 - ActiveJob: A Service Oriented Architecture
   by Andy Croll
 
-- Your Front End Framework is Overkill - Server Side Javascript w/ Rails
+- [Your Front End Framework is Overkill - Server Side Javascript w/ Rails](https://speakerdeck.com/aantix/rails-1)
   by Jim Jones
 
 - Data Warehouses and Multi-Dimensional Data Analysis
@@ -36,7 +36,7 @@
 - Bringing UX to Your Code
   by Joe Mastey
 
-- The World of Rails Security
+- [The World of Rails Security](https://speakerdeck.com/presidentbeef/the-world-of-rails-security-railsconf-2015)
   by Justin Collins
 
 - React.js on Rails
@@ -66,7 +66,7 @@
 - Metasecurity: Beyond Patching Vulnerabilities
   by Chase Douglas
 
-- Nothing is Something
+- [Nothing is Something](https://speakerdeck.com/skmetz/nothing-is-something-railsconf)
   by Sandi Metz
 
 - (Re)Building a large scale payments system on Rails

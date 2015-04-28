@@ -9,3 +9,5 @@ Schedule: http://railsconf.com/schedule
 ## [Day3](/day3.md)
 
 ## Keynote
+
+## [Ruby Heros](https://speakerdeck.com/olivierlacan/ruby-heroes-2015)

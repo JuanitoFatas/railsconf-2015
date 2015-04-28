@@ -1,6 +1,6 @@
 ## Day 2
 
-- What’s happening in your Rails app? Introduction to Introspection features of Ruby
+- [What’s happening in your Rails app? Introduction to Introspection features of Ruby](http://www.atdot.net/~ko1/activities/2015_railsconf.pdf)
   by Koichi Sasada
 
 - Now Hear This! Putting Real-Time Voice, Video and Text into Rails
@@ -18,8 +18,7 @@
 - How to talk to humans: a different approach to soft skills
   by Sharon Steed
 
-- Building RailsPerf, a toolkit to detect performance regressions in Ruby on Rails core
-
+- [Building RailsPerf, a toolkit to detect performance regressions in Ruby on Rails core](https://speakerdeck.com/kirs/building-a-toolkit-to-detect-performance-regressions-in-ruby-on-rails-core)
   by Kir Shatrov
 
 - Playing Games In The Clouds

@@ -63,7 +63,7 @@
 - 5 Secrets We Learned While Building a Bank in 16 Months
   by Stan Ng & John Phamvan
 
-- Microservices, a bittersweet symphony
+- [Microservices, a bittersweet symphony](https://speakerdeck.com/sebasoga/microservices-a-bittersweet-symphony-railsconf-2015)
   by Sebastian Sogamoso
 
 - Adventures in Federating Authorization and Authentication with OAuth
