@@ -1,6 +1,6 @@
 ## Day 3
 
-- [What Comes After MVC](https://speakerdeck.com/pushcx/what-comes-after-mvc-railsconf-2015) [Video](#)
+- [What Comes After MVC](https://speakerdeck.com/pushcx/what-comes-after-mvc-railsconf-2015) [Video](https://www.youtube.com/watch?v=pjqXMqHzIZs)
   by Peter Harkins
 
 - Designing a Great Ruby API - How We're Simplifying Rails 5 [Video](#)
