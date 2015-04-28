@@ -51,8 +51,8 @@
 - Docker isn’t just for deployment [Video](#)
   by Ben Dixon
 
-- Better callbacks in Rails 5 [Video](#)
-  by Claudio Baccigalupo
+- [Better callbacks in Rails 5](https://speakerdeck.com/claudiob/better-callbacks-in-rails-5) [Video](#)
+  by Claudio B.
 
 - Level Up with OSS: Develop Your Rails Dev Skills Through Open Source Contributions [Video](#)
   by Courteney Ervin
