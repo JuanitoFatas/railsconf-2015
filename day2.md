@@ -69,7 +69,6 @@
   by Terence Lee
 
 - Ruby on Rails on Minitest
-
   by Ryan Davis
 
 - Why Your New API Product Will Fail
