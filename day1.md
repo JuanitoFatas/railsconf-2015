@@ -84,7 +84,7 @@
 - Resilient by Design
   by Smit Shah
 
-- Processes and Threads . Resque vs. Sidekiq
+- [Processes and Threads . Resque vs. Sidekiq](https://speakerdeck.com/jdabbs/processes-and-threads-resque-vs-sidekiq)
   by James Dabbs
 
 - So You Want to Start Refactoring?

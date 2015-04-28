@@ -21,7 +21,7 @@
 - [Building RailsPerf, a toolkit to detect performance regressions in Ruby on Rails core](https://speakerdeck.com/kirs/building-a-toolkit-to-detect-performance-regressions-in-ruby-on-rails-core)
   by Kir Shatrov
 
-- Playing Games In The Clouds
+- [Playing Games In The Clouds](https://speakerdeck.com/nodunayo/playing-games-in-the-clouds)
   by Nadia Odunayo
 
 - Burn Rubber Does Not Mean Warp Speed

@@ -21,7 +21,7 @@
 - Sometimes a Controller is Just a Controller
   by Justin Searls
 
-- ActiveJob: A Service Oriented Architecture
+- [ActiveJob: A Service Oriented Architecture](https://speakerdeck.com/andycroll/activejob-a-service-oriented-architecture)
   by Andy Croll
 
 - [Your Front End Framework is Overkill - Server Side Javascript w/ Rails](https://speakerdeck.com/aantix/rails-1)
