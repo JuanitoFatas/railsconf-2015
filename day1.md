@@ -12,118 +12,85 @@
 - [Don't Be A Hero: Sustainable Open Source](https://speakerdeck.com/lilliealbert/dont-be-a-hero-sustainable-open-source)
   Lillie Chilen
 
-How to Program with Accessibility in Mind
+- How to Program with Accessibility in Mind
+  Chandra Carney
 
-Chandra Carney
+- Riding Rails for 10 Years
+  John Duff
 
-Riding Rails for 10 Years
+- [Speed Science](https://speakerdeck.com/schneems/speed-science)
+  Richard Schneeman
 
-John Duff
+- Strategies for being the Junior on the Team
+  Louisa Barrett
 
-Speed Science
+- Civic Hacking on Rails
+  William Jeffries
 
-Richard Schneeman
+- You, Too, Can Be A Webserver
+  Julian Simioni
 
-Strategies for being the Junior on the Team
+- DevOps for The Lazy
+  Aja Hammerly
 
-Louisa Barrett
+- Slightly Less Painful Time Zones
+  Katherine Wu
 
-Civic Hacking on Rails
+- Understanding Rails test types in RSpec
+  Sam Phippen
 
-William Jeffries
+- Implementing a Strong Code-Review Culture
+  Derek Prior
 
-You, Too, Can Be A Webserver
+- Scaling Rails for Black Friday and Cyber Monday
+  Christian Joudrey
 
-Julian Simioni
+- Breaking Down the Barrier: Demystifying Contributing to Rails
+  Eileen M. Uchitelle
 
-DevOps for The Lazy
+- Docker isn’t just for deployment
+  Ben Dixon
 
-Aja Hammerly
+- Better callbacks in Rails 5
+  Claudio Baccigalupo
 
-Slightly Less Painful Time Zones
+- Level Up with OSS: Develop Your Rails Dev Skills Through Open Source Contributions
+  Courteney Ervin
 
-Katherine Wu
+- What We Can Learn about Diversity from the Liberal Arts
+  Liz Certa
 
-Understanding Rails test types in RSpec
+- 5 Secrets We Learned While Building a Bank in 16 Months
+  Stan Ng & John Phamvan
 
-Sam Phippen
+- Microservices, a bittersweet symphony
 
-Derek Prior
+  Sebastian Sogamoso
 
-Scaling Rails for Black Friday and Cyber Monday
+- Adventures in Federating Authorization and Authentication with OAuth
+  Lance Gleason
 
-Christian Joudrey
+- Amelia Bedelia Learns to Code
+  Kylie Stradley
 
-LABS
+- [Teaching GitHub for Poets](https://speakerdeck.com/ktheory/teaching-github-for-poets-railsconf-2015)
+  Aaron Suggs
 
-Breaking Down the Barrier: Demystifying Contributing to Rails
+- Test Driving your Rails Infrastructure with Chef
+  Nathen Harvey & Nell Shamrell-Harrington
 
-Eileen M. Uchitelle
+- Get started with Component-based Rails applications!
+  Stephan Hagemann
 
-2:40PM - 3:20PM
+- Resilient by Design
 
-DISTRIBUTED SYSTEMS
+  Smit Shah
 
-Docker isn’t just for deployment
+- Processes and Threads - Resque vs. Sidekiq
+  James Dabbs
 
-Ben Dixon
+- So You Want to Start Refactoring?
+  Jillian Foley
 
-Better callbacks in Rails 5
-
-Claudio Baccigalupo
-
-Level Up with OSS: Develop Your Rails Dev Skills Through Open Source Contributions
-
-Courteney Ervin
-
-What We Can Learn about Diversity from the Liberal Arts
-
-Liz Certa
-
-5 Secrets We Learned While Building a Bank in 16 Months
-
-Microservices, a bittersweet symphony
-
-Sebastian Sogamoso
-
-Adventures in Federating Authorization and Authentication with OAuth
-
-Lance Gleason
-
-Amelia Bedelia Learns to Code
-
-Kylie Stradley
-
-Teaching GitHub for Poets
-
-Aaron Suggs
-
-Test Driving your Rails Infrastructure with Chef
-
-Nathen Harvey & Nell Shamrell-Harrington
-
-LABS
-
-Get started with Component-based Rails applications!
-
-Stephan Hagemann
-
-4:40PM - 5:20PM
-
-DISTRIBUTED SYSTEMS
-
-Resilient by Design
-
-Smit Shah
-
-Processes and Threads - Resque vs. Sidekiq
-
-James Dabbs
-
-So You Want to Start Refactoring?
-
-Jillian Foley
-
-Humane Development
-
-Ernie Miller
+- Humane Development
+  Ernie Miller
