@@ -2,7 +2,7 @@
 
 Schedule: http://railsconf.com/schedule
 
-Some videos are available from live stream, please see [this gist](https://gist.github.com/seapy/8bc4e8a667578de8dffb).
+Browse RailsConf 2015 Videos: http://confreaks.tv/events/railsconf2015
 
 If you find new talk / video link, feel free to send a pull request please!
 
@@ -14,13 +14,17 @@ If you find new talk / video link, feel free to send a pull request please!
 
 ## Keynotes
 
+### Keynote by Aaron Patterson [Video](https://www.youtube.com/watch?v=B3gYklsN9uc)
+
 ### Closing Keynote by Kent Back [Video](http://confreaks.tv/videos/railsconf2015-closing-keynote)
 
 ## Events
 
-### [Ruby Heros](https://speakerdeck.com/olivierlacan/ruby-heroes-2015) [Video](#)
+### [Ruby Heros](https://speakerdeck.com/olivierlacan/ruby-heroes-2015) [Video](https://www.youtube.com/watch?v=3bcBNsec-Aw)
 
 ## Panels
 
 ### Interviewing like a Unicorn [Video](https://www.youtube.com/watch?v=V5b65sHieUw)
 > How Great Teams Hire
+
+### Rails Core Panel Discussion [Video](https://www.youtube.com/watch?v=PdUj8HoH_eA)

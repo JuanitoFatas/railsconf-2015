@@ -1,6 +1,6 @@
 ## Day 3
 
-- [What Comes After MVC](https://speakerdeck.com/pushcx/what-comes-after-mvc-railsconf-2015) [Video](https://www.youtube.com/watch?v=pjqXMqHzIZs)
+- [What Comes After MVC](https://speakerdeck.com/pushcx/what-comes-after-mvc-railsconf-2015) [Video](https://www.youtube.com/watch?v=uFpXKLSREQo)
   by Peter Harkins
 
 - Designing a Great Ruby API - How We're Simplifying Rails 5 [Video](#)
@@ -18,7 +18,7 @@
 - http://exploration [Video](#)
   by Craig Buchek, Charlie Sanders
 
-- Sometimes a Controller is Just a Controller [Video](#)
+- Sometimes a Controller is Just a Controller [Video](https://www.youtube.com/watch?v=dZJ75L8c60s)
   by Justin Searls
 
 - [ActiveJob: A Service Oriented Architecture](https://speakerdeck.com/andycroll/activejob-a-service-oriented-architecture) [Video](#)

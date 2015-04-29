@@ -1,6 +1,6 @@
 ## Day 2
 
-- [What’s happening in your Rails app? Introduction to Introspection features of Ruby](http://www.atdot.net/~ko1/activities/2015_railsconf.pdf) [Video](#)
+- [What’s happening in your Rails app? Introduction to Introspection features of Ruby](http://www.atdot.net/~ko1/activities/2015_railsconf.pdf) [Video](https://www.youtube.com/watch?v=4YtBS0tvkjw)
   by Koichi Sasada
 
 - Now Hear This! Putting Real-Time Voice, Video and Text into Rails [Video](#)
@@ -18,7 +18,7 @@
 - How to talk to humans: a different approach to soft skills [Video](#)
   by Sharon Steed
 
-- [Building RailsPerf, a toolkit to detect performance regressions in Ruby on Rails core](https://speakerdeck.com/kirs/building-a-toolkit-to-detect-performance-regressions-in-ruby-on-rails-core) [Video](#)
+- [Building RailsPerf, a toolkit to detect performance regressions in Ruby on Rails core](https://speakerdeck.com/kirs/building-a-toolkit-to-detect-performance-regressions-in-ruby-on-rails-core) [Video](https://www.youtube.com/watch?v=BvUsy_Qb9Es)
   by Kir Shatrov
 
 - [Playing Games In The Clouds](https://speakerdeck.com/nodunayo/playing-games-in-the-clouds) [Video](#)
@@ -30,10 +30,10 @@
 - [Curly — Rethinking the view layer](https://speakerdeck.com/dasch/curly-rethinking-the-view-layer) [Video](#)
   by Daniel Schierbeck
 
-- Leveraging Microsoft Azure from Ruby [Video](#)
+- Leveraging Microsoft Azure from Ruby [Video](https://www.youtube.com/watch?v=EncjV-lKwLc)
   by Eduard Koller
 
-- Ambitious Capybara [Video](#)
+- Ambitious Capybara [Video](https://www.youtube.com/watch?v=kyqA8R7ZRWI)
   by Eduardo Gutierrez
 
 - AMS, API, Rails and a developer, a Love Story [Video](#)
@@ -45,13 +45,13 @@
 - Dynamically Sassy [Video](#)
   by Jeremy Fairbank
 
-- Bending the Curve: How Rust Helped Us Write Better Ruby [Video](#)
+- Bending the Curve: How Rust Helped Us Write Better Ruby [Video](https://www.youtube.com/watch?v=LazvK39Oc4U)
   by Yehuda Katz & Tom Dale
 
 - Getting a Handle on Legacy Code [Video](#)
   by Randy Coulman
 
-- RSpec: It's Not Actually Magic [Video](#)
+- RSpec: It's Not Actually Magic [Video](https://www.youtube.com/watch?v=Libc0-0TRg4)
   by Noel Rappin
 
 - High performance APIs in Ruby using ActiveRecord and Goliath
@@ -64,10 +64,10 @@
 - Crossing the Bridge: Connecting Rails and Your Front-End Framework [Video](#)
   by Daniel Spector
 
-- Heroku: A Year in Review [Video](#)
+- Heroku: A Year in Review [Video](https://www.youtube.com/watch?v=kCzWZbGHiZE)
   by Terence Lee
 
-- [Ruby on Rails on Minitest](http://www.zenspider.com/pdf/2015_railsconf_ruby_on_rails_on_minitest.pdf) [Video](#)
+- [Ruby on Rails on Minitest](http://www.zenspider.com/pdf/2015_railsconf_ruby_on_rails_on_minitest.pdf) [Video](https://www.youtube.com/watch?v=MA4jJNUG_dI)
   by Ryan Davis
 
 - Why Your New API Product Will Fail [Video](#)
@@ -79,5 +79,5 @@
 - Implementing a visual CSS testing framework [Video](#)
   by Jessica Dillon
 
-- Passwords are not Enough [Video](#)
+- Passwords are not Enough [Video](https://www.youtube.com/watch?v=i8WpShCXZOE)
   by Greg Baugues
