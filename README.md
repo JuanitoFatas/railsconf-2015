@@ -4,6 +4,8 @@ Schedule: http://railsconf.com/schedule
 
 Some videos are available from live stream, please see [this gist](https://gist.github.com/seapy/8bc4e8a667578de8dffb).
 
+If you find new talk / video link, feel free to send a pull request please!
+
 ## [Day1](/day1.md)
 
 ## [Day2](/day2.md)
@@ -12,6 +14,8 @@ Some videos are available from live stream, please see [this gist](https://gist.
 
 ## Keynotes
 
-## [Ruby Heros](https://speakerdeck.com/olivierlacan/ruby-heroes-2015)
+## Closing Keynote by Kent Back [Video](http://confreaks.tv/videos/railsconf2015-closing-keynote)
 
-## [Closing Keynote by Kent Back](http://confreaks.tv/videos/railsconf2015-closing-keynote)
+## Events
+
+## [Ruby Heros](https://speakerdeck.com/olivierlacan/ruby-heroes-2015) [Video](#)
