@@ -23,4 +23,4 @@ If you find new talk / video link, feel free to send a pull request please!
 ## Panels
 
 ### Interviewing like a Unicorn [Video](https://www.youtube.com/watch?v=V5b65sHieUw)
-<sub>How Great Teams Hire</sub>
+> How Great Teams Hire
