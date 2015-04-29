@@ -64,7 +64,7 @@
 - Crossing the Bridge: Connecting Rails and Your Front-End Framework [Video](#)
   by Daniel Spector
 
-- Heroku: A Year in Review [Video](https://www.youtube.com/watch?v=kCzWZbGHiZE)
+- [Heroku: A Year in Review](https://speakerdeck.com/hone/heroku-2015-a-year-in-review) [Video](https://www.youtube.com/watch?v=kCzWZbGHiZE)
   by Terence Lee
 
 - [Ruby on Rails on Minitest](http://www.zenspider.com/pdf/2015_railsconf_ruby_on_rails_on_minitest.pdf) [Video](https://www.youtube.com/watch?v=MA4jJNUG_dI)
