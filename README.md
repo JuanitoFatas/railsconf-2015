@@ -14,8 +14,13 @@ If you find new talk / video link, feel free to send a pull request please!
 
 ## Keynotes
 
-## Closing Keynote by Kent Back [Video](http://confreaks.tv/videos/railsconf2015-closing-keynote)
+### Closing Keynote by Kent Back [Video](http://confreaks.tv/videos/railsconf2015-closing-keynote)
 
 ## Events
 
-## [Ruby Heros](https://speakerdeck.com/olivierlacan/ruby-heroes-2015) [Video](#)
+### [Ruby Heros](https://speakerdeck.com/olivierlacan/ruby-heroes-2015) [Video](#)
+
+## Panels
+
+### Interviewing like a Unicorn [Video](https://www.youtube.com/watch?v=V5b65sHieUw)
+<sub>How Great Teams Hire</sub>
