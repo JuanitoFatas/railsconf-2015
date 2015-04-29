@@ -10,6 +10,8 @@ Some videos are available from live stream, please see [this gist](https://gist.
 
 ## [Day3](/day3.md)
 
-## Keynote
+## Keynotes
 
 ## [Ruby Heros](https://speakerdeck.com/olivierlacan/ruby-heroes-2015)
+
+## [Closing Keynote by Kent Back](http://confreaks.tv/videos/railsconf2015-closing-keynote)
