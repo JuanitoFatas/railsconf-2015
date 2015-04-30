@@ -39,7 +39,7 @@
 - Understanding Rails test types in RSpec [Video](#)
   by Sam Phippen
 
-- Implementing a Strong Code-Review Culture [Video](#)
+- Implementing a Strong Code-Review Culture [Video](https://www.youtube.com/watch?v=PJjmw9TRB7s)
   by Derek Prior
 
 - Scaling Rails for Black Friday and Cyber Monday [Video](#)
