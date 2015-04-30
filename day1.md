@@ -81,7 +81,7 @@
 - Get started with Component-based Rails applications! [Video](#)
   by Stephan Hagemann
 
-- Resilient by Design [Video](#)
+- [Resilient by Design](https://speakerdeck.com/who828/resillent-by-design) [Video](https://www.youtube.com/watch?v=_yEz9-Vu8YM&feature=em-uploademail)
   by Smit Shah
 
 - [Processes and Threads . Resque vs. Sidekiq](https://speakerdeck.com/jdabbs/processes-and-threads-resque-vs-sidekiq) [Video](#)
