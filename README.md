@@ -6,12 +6,6 @@ Browse RailsConf 2015 Videos: http://confreaks.tv/events/railsconf2015
 
 If you find new talk / video link, feel free to send a pull request please!
 
-## [Day1](/day1.md)
-
-## [Day2](/day2.md)
-
-## [Day3](/day3.md)
-
 ## Keynotes
 
 ### Opening Keynote by David Heinemeier Hansson [Video](https://www.youtube.com/watch?v=KJVTM7mE1Cc)
@@ -19,6 +13,12 @@ If you find new talk / video link, feel free to send a pull request please!
 ### Keynote by Aaron Patterson [Video](https://www.youtube.com/watch?v=B3gYklsN9uc)
 
 ### Closing Keynote by Kent Back [Video](http://confreaks.tv/videos/railsconf2015-closing-keynote)
+
+## [Day1](/day1.md)
+
+## [Day2](/day2.md)
+
+## [Day3](/day3.md)
 
 ## Events
 
