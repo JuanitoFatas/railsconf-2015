@@ -14,6 +14,8 @@ If you find new talk / video link, feel free to send a pull request please!
 
 ## Keynotes
 
+### Opening Keynote by David Heinemeier Hansson [Video](https://www.youtube.com/watch?v=KJVTM7mE1Cc)
+
 ### Keynote by Aaron Patterson [Video](https://www.youtube.com/watch?v=B3gYklsN9uc)
 
 ### Closing Keynote by Kent Back [Video](http://confreaks.tv/videos/railsconf2015-closing-keynote)
