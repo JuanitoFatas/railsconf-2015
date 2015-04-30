@@ -9,13 +9,13 @@
 - [How Does Bundler Work, Anyway?](https://speakerdeck.com/indirect/how-does-bundler-work-anyway) [Video](#)
   by André Arko
 
-- [Don't Be A Hero: Sustainable Open Source](https://speakerdeck.com/lilliealbert/dont-be-a-hero-sustainable-open-source) [Video](#)
+- [Don't Be A Hero: Sustainable Open Source](https://speakerdeck.com/lilliealbert/dont-be-a-hero-sustainable-open-source) [Video](https://www.youtube.com/watch?v=KpMC8z8r73g)
   by Lillie Chilen
 
 - How to Program with Accessibility in Mind [Video](#)
   by Chandra Carney
 
-- Riding Rails for 10 Years [Video](#)
+- Riding Rails for 10 Years [Video](https://www.youtube.com/watch?v=R8UtOQbVmYo)
   by John Duff
 
 - [Speed Science](https://speakerdeck.com/schneems/speed-science) [Video](#)
@@ -30,7 +30,7 @@
 - You, Too, Can Be A Webserver [Video](#)
   by Julian Simioni
 
-- DevOps for The Lazy [Video](#)
+- DevOps for The Lazy [Video](https://www.youtube.com/watch?v=CVO_imNSw2o)
   by Aja Hammerly
 
 - Slightly Less Painful Time Zones [Video](#)
@@ -48,7 +48,7 @@
 - Breaking Down the Barrier: Demystifying Contributing to Rails [Video](#)
   by Eileen M. Uchitelle
 
-- Docker isn’t just for deployment [Video](#)
+- Docker isn’t just for deployment [Video](https://www.youtube.com/watch?v=NGcT0dGivoM)
   by Ben Dixon
 
 - [Better callbacks in Rails 5](https://speakerdeck.com/claudiob/better-callbacks-in-rails-5) [Video](#)
@@ -63,7 +63,7 @@
 - 5 Secrets We Learned While Building a Bank in 16 Months [Video](#)
   by Stan Ng & John Phamvan
 
-- [Microservices, a bittersweet symphony](https://speakerdeck.com/sebasoga/microservices-a-bittersweet-symphony-railsconf-2015) [Video](#)
+- [Microservices, a bittersweet symphony](https://speakerdeck.com/sebasoga/microservices-a-bittersweet-symphony-railsconf-2015) [Video](https://www.youtube.com/watch?v=mU4BMf0wS7Q)
   by Sebastian Sogamoso
 
 - Adventures in Federating Authorization and Authentication with OAuth [Video](#)
