@@ -33,7 +33,7 @@
 - See You On the Trail [Video](#)
   by Nick Sutterer
 
-- Bringing UX to Your Code [Video](#)
+- Bringing UX to Your Code [Video](https://www.youtube.com/watch?v=PI7g4TqLaTY)
   by Joe Mastey
 
 - [The World of Rails Security](https://speakerdeck.com/presidentbeef/the-world-of-rails-security-railsconf-2015) [Video](#)
@@ -51,7 +51,7 @@
 - Deploy and Manage Ruby on Rails Apps on AWS [Video](#)
   by Alex Wood, Trevor Rowe, Loren Segal
 
-- Coding: Art or Craft? [Video](#)
+- Coding: Art or Craft? [Video](https://www.youtube.com/watch?v=JZ2FBQjNm14)
   by Emily Xie
 
 - The power of cache in a slow world [Video](#)
@@ -66,7 +66,7 @@
 - Metasecurity: Beyond Patching Vulnerabilities [Video](#)
   by Chase Douglas
 
-- [Nothing is Something](https://speakerdeck.com/skmetz/nothing-is-something-railsconf) [Video](#)
+- [Nothing is Something](https://speakerdeck.com/skmetz/nothing-is-something-railsconf) [Video](https://www.youtube.com/watch?v=OMPfEXIlTVE)
   by Sandi Metz
 
 - (Re)Building a large scale payments system on Rails [Video](#)

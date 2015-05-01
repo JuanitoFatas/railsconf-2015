@@ -12,6 +12,8 @@ If you find new talk / video link, feel free to send a pull request please!
 
 ### Keynote by Aaron Patterson [Video](https://www.youtube.com/watch?v=B3gYklsN9uc)
 
+### Keynote by Sara Chipps [Video](https://www.youtube.com/watch?v=_OOZfod2rC4)
+
 ### Closing Keynote by Kent Back [Video](http://confreaks.tv/videos/railsconf2015-closing-keynote)
 
 ## [Day1](/day1.md)
