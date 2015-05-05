@@ -24,7 +24,7 @@
 - Strategies for being the Junior on the Team [Video](https://www.youtube.com/watch?v=SaNlfSeTWwI)
   by Louisa Barrett
 
-- Civic Hacking on Rails [Video](https://www.youtube.com/watch?v=BlFtNc76x9Q)
+- [Civic Hacking on Rails](http://www.slideshare.net/WilliamJeffries1/civic-hacking-on-rails) [Video](https://www.youtube.com/watch?v=BlFtNc76x9Q)
   by William Jeffries
 
 - You, Too, Can Be A Webserver [Video](#)
