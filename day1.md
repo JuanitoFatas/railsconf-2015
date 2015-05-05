@@ -21,14 +21,17 @@
 - [Speed Science](https://speakerdeck.com/schneems/speed-science) [Video](#)
   by Richard Schneeman
 
-- Strategies for being the Junior on the Team [Video](#)
+- Strategies for being the Junior on the Team [Video](https://www.youtube.com/watch?v=SaNlfSeTWwI)
   by Louisa Barrett
 
-- Civic Hacking on Rails [Video](#)
+- Civic Hacking on Rails [Video](https://www.youtube.com/watch?v=BlFtNc76x9Q)
   by William Jeffries
 
 - You, Too, Can Be A Webserver [Video](#)
   by Julian Simioni
+
+- Do Users Love Your API? Developer-focused API Design [Video](https://www.youtube.com/watch?v=8p10bGFM9dg)
+  by Pete Holiday, Kate Harlan, Nate Ranson
 
 - DevOps for The Lazy [Video](https://www.youtube.com/watch?v=CVO_imNSw2o)
   by Aja Hammerly
@@ -36,7 +39,7 @@
 - Slightly Less Painful Time Zones [Video](#)
   by Katherine Wu
 
-- Understanding Rails test types in RSpec [Video](#)
+- Understanding Rails test types in RSpec [Video](https://www.youtube.com/watch?v=SOi_1reKn8M)
   by Sam Phippen
 
 - Implementing a Strong Code-Review Culture [Video](https://www.youtube.com/watch?v=PJjmw9TRB7s)
@@ -54,7 +57,7 @@
 - [Better callbacks in Rails 5](https://speakerdeck.com/claudiob/better-callbacks-in-rails-5) [Video](#)
   by Claudio B.
 
-- Level Up with OSS: Develop Your Rails Dev Skills Through Open Source Contributions [Video](#)
+- Level Up with OSS: Develop Your Rails Dev Skills Through Open Source Contributions [Video](https://www.youtube.com/watch?v=QJpkRZn2p9k)
   by Courteney Ervin
 
 - What We Can Learn about Diversity from the Liberal Arts [Video](#)
@@ -69,7 +72,7 @@
 - Adventures in Federating Authorization and Authentication with OAuth [Video](#)
   by Lance Gleason
 
-- Amelia Bedelia Learns to Code [Video](#)
+- Amelia Bedelia Learns to Code [Video](https://www.youtube.com/watch?v=bSbla50tqZE)
   by Kylie Stradley
 
 - [Teaching GitHub for Poets](https://speakerdeck.com/ktheory/teaching-github-for-poets-railsconf-2015) [Video](#)
@@ -87,8 +90,8 @@
 - [Processes and Threads . Resque vs. Sidekiq](https://speakerdeck.com/jdabbs/processes-and-threads-resque-vs-sidekiq) [Video](#)
   by James Dabbs
 
-- So You Want to Start Refactoring? [Video](#)
+- So You Want to Start Refactoring? [Video](https://www.youtube.com/watch?v=HFaXuMQTnOc)
   by Jillian Foley
 
-- Humane Development [Video](#)
+- Humane Development [Video](https://www.youtube.com/watch?v=-ZLYxLjwNWo)
   by Ernie Miller
