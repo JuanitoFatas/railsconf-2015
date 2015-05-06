@@ -54,7 +54,7 @@
 - RSpec: It's Not Actually Magic [Video](https://www.youtube.com/watch?v=Libc0-0TRg4)
   by Noel Rappin
 
-- High performance APIs in Ruby using ActiveRecord and Goliath
+- [High performance APIs in Ruby using ActiveRecord and Goliath](https://speakerdeck.com/colindkelley/high-performance-apis-in-ruby-using-activerecord-and-goliath-plus-synchrony-plus-eventmachine)
  [Video](#)
   by Dan Kozlowski, Colin Kelley
 
