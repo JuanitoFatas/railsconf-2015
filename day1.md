@@ -57,7 +57,7 @@
 - [Better callbacks in Rails 5](https://speakerdeck.com/claudiob/better-callbacks-in-rails-5) [Video](#)
   by Claudio B.
 
-- Level Up with OSS: Develop Your Rails Dev Skills Through Open Source Contributions [Video](https://www.youtube.com/watch?v=QJpkRZn2p9k)
+- [Level Up with OSS: Develop Your Rails Dev Skills Through Open Source Contributions](https://speakerdeck.com/courte/level-up-with-oss) [Video](https://www.youtube.com/watch?v=QJpkRZn2p9k)
   by Courteney Ervin
 
 - What We Can Learn about Diversity from the Liberal Arts [Video](#)
