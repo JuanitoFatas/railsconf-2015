@@ -60,7 +60,7 @@
 - Rails and EmberCLI: an integration love story [Video](#)
   by Jonathan Jackson
 
-- Voila, Indexes! A Look at Some Simple Preventative Magick [Video](#)
+- [Voila, Indexes! A Look at Some Simple Preventative Magick](https://speakerdeck.com/jamis/voila-indexes-a-look-at-some-simple-preventative-magick) [Video](#)
   by Jamis Buck
 
 - Metasecurity: Beyond Patching Vulnerabilities [Video](#)
@@ -69,7 +69,7 @@
 - [Nothing is Something](https://speakerdeck.com/skmetz/nothing-is-something-railsconf) [Video](https://www.youtube.com/watch?v=OMPfEXIlTVE)
   by Sandi Metz
 
-- (Re)Building a large scale payments system on Rails [Video](#)
+- [(Re)Building a large scale payments system on Rails](https://speakerdeck.com/mweksler/rebuilding-large-payments-systems-on-rails) [Video](#)
   by Michel Weksler
 
 - Internet of Things: Connecting Rails with the Real World [Video](#)
