@@ -9,7 +9,7 @@
 - Why We're Bad At Hiring (And How To Fix It) [Video](#)
   by Kerri Miller
 
-- SVG charts and graphics with Ruby [Video](#)
+- [SVG charts and graphics with Ruby](https://speakerdeck.com/snhorne/svg-charts-and-graphs-with-ruby) [Video](https://www.youtube.com/watch?v=yCCtDpW_apk)
   by Starr Horne
 
 - Interviewing like a Unicorn: How Great Teams Hire [Video](#)
