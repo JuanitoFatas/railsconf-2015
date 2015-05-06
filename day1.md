@@ -36,7 +36,7 @@
 - DevOps for The Lazy [Video](https://www.youtube.com/watch?v=CVO_imNSw2o)
   by Aja Hammerly
 
-- Slightly Less Painful Time Zones [Video](#)
+- [Slightly Less Painful Time Zones](https://speakerdeck.com/kwugirl/slightly-less-painful-time-zones) [Video](#)
   by Katherine Wu
 
 - Understanding Rails test types in RSpec [Video](https://www.youtube.com/watch?v=SOi_1reKn8M)
