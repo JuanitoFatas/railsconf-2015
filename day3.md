@@ -81,5 +81,5 @@
 - What I've Learned in 7 Years of Podcasting about Ruby [Video](#)
   by Charles Wood
 
-- What is this PGP thing, and how can I use it? [Video](#)
+- [What is this PGP thing, and how can I use it?](https://speakerdeck.com/calebthompson/what-is-this-pgp-thing-and-how-can-i-use-it) [Video](#)
   by Caleb Thompson, Mason Fischer
