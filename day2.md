@@ -48,7 +48,7 @@
 - Bending the Curve: How Rust Helped Us Write Better Ruby [Video](https://www.youtube.com/watch?v=LazvK39Oc4U)
   by Yehuda Katz & Tom Dale
 
-- Getting a Handle on Legacy Code [Video](#)
+- [Getting a Handle on Legacy Code](https://speakerdeck.com/randycoulman/getting-a-handle-on-legacy-code) [Video](#)
   by Randy Coulman
 
 - RSpec: It's Not Actually Magic [Video](https://www.youtube.com/watch?v=Libc0-0TRg4)
