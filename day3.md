@@ -54,7 +54,7 @@
 - [Coding: Art or Craft?](https://speakerdeck.com/emilyxxie/coding-art-or-craft) [Video](https://www.youtube.com/watch?v=JZ2FBQjNm14)
   by Emily Xie
 
-- The power of cache in a slow world [Video](#)
+- [The power of cache in a slow world](https://speakerdeck.com/mmay/the-power-of-cache-in-a-slow-world) [Video](#)
   by Michael May
 
 - Rails and EmberCLI: an integration love story [Video](#)
