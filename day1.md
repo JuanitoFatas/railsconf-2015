@@ -93,5 +93,5 @@
 - So You Want to Start Refactoring? [Video](https://www.youtube.com/watch?v=HFaXuMQTnOc)
   by Jillian Foley
 
-- Humane Development [Video](https://www.youtube.com/watch?v=-ZLYxLjwNWo)
+- [Humane Development](https://speakerdeck.com/erniemiller/humane-development) [Video](https://www.youtube.com/watch?v=-ZLYxLjwNWo)
   by Ernie Miller
