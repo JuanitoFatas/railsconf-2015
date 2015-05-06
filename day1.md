@@ -12,7 +12,7 @@
 - [Don't Be A Hero: Sustainable Open Source](https://speakerdeck.com/lilliealbert/dont-be-a-hero-sustainable-open-source) [Video](https://www.youtube.com/watch?v=KpMC8z8r73g)
   by Lillie Chilen
 
-- How to Program with Accessibility in Mind [Video](#)
+- [How to Program with Accessibility in Mind](https://speakerdeck.com/chandracarney/how-to-develop-with-accessibility-in-mind) [Video](#)
   by Chandra Carney
 
 - Riding Rails for 10 Years [Video](https://www.youtube.com/watch?v=R8UtOQbVmYo)
