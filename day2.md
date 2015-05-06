@@ -33,7 +33,7 @@
 - Leveraging Microsoft Azure from Ruby [Video](https://www.youtube.com/watch?v=EncjV-lKwLc)
   by Eduard Koller
 
-- Ambitious Capybara [Video](https://www.youtube.com/watch?v=kyqA8R7ZRWI)
+- [Ambitious Capybara](https://speakerdeck.com/ecbypi/ambitious-capybara) [Video](https://www.youtube.com/watch?v=kyqA8R7ZRWI)
   by Eduardo Gutierrez
 
 - AMS, API, Rails and a developer, a Love Story [Video](#)
