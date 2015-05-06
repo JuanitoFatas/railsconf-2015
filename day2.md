@@ -76,7 +76,7 @@
 - [What If Shakespeare Wrote Ruby?](https://speakerdeck.com/acuppy/what-if-shakespeare-wrote-ruby) [Video](#)
   by Adam Cuppy
 
-- Implementing a visual CSS testing framework [Video](#)
+- [Implementing a visual CSS testing framework](http://www.slideshare.net/jessicardillon/implementing-a-visual-css-testing-framework) [Video](https://www.youtube.com/watch?v=Q4ttqkIEM7g)
   by Jessica Dillon
 
 - Passwords are not Enough [Video](https://www.youtube.com/watch?v=i8WpShCXZOE)
