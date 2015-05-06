@@ -61,7 +61,7 @@
 - [Crossing the Canyon of Cognizance: A Shared Adventure](https://speakerdeck.com/pwnela/crossing-the-canyon-of-cognizance-a-shared-adventure) [Video](#)
   by Pamela O. Vickers
 
-- Crossing the Bridge: Connecting Rails and Your Front-End Framework [Video](#)
+- [Crossing the Bridge: Connecting Rails and Your Front-End Framework](https://speakerdeck.com/danielspector/crossing-the-bridge-connecting-rails-and-your-front-end-framework) [Video](#)
   by Daniel Spector
 
 - [Heroku: A Year in Review](https://speakerdeck.com/hone/heroku-2015-a-year-in-review) [Video](https://www.youtube.com/watch?v=kCzWZbGHiZE)
