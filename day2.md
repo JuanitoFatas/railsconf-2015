@@ -42,7 +42,7 @@
 - Beyond Hogwarts: A Half-Blood's Perspective on Inclusive Magical Education [Video](#)
   by JaimeLynSchatz
 
-- Dynamically Sassy [Video](#)
+- [Dynamically Sassy](https://speakerdeck.com/jfairbank/dynamically-sassy) [Video](https://www.youtube.com/watch?v=ouGWyZfGZ8M)
   by Jeremy Fairbank
 
 - Bending the Curve: How Rust Helped Us Write Better Ruby [Video](https://www.youtube.com/watch?v=LazvK39Oc4U)
