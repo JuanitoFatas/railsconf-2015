@@ -6,7 +6,7 @@
 - [Designing a Great Ruby API - How We're Simplifying Rails 5](https://speakerdeck.com/sgrif/designing-a-great-ruby-api-how-were-simplifying-rails-5) [Video](#)
   by Sean Griffin
 
-- Using JavaScript from the Future in Your Rails App Today [Video](#)
+- [Using JavaScript from the Future in Your Rails App Today](https://speakerdeck.com/stevekinney/using-javascript-from-the-future-in-your-rails-application-today) [Video](#)
   by Steve Kinney
 
 - [Making Data Dance](https://speakerdeck.com/barrettclark/making-data-dance) [Video](#)
