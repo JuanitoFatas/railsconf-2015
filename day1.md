@@ -81,7 +81,7 @@
 - Test Driving your Rails Infrastructure with Chef [Video](#)
   by Nathen Harvey & Nell Shamrell-Harrington
 
-- Get started with Component-based Rails applications! [Video](#)
+- [Get started with Component-based Rails applications!](https://speakerdeck.com/shagemann/get-started-with-component-based-rails) [Video](#)
   by Stephan Hagemann
 
 - [Resilient by Design](https://speakerdeck.com/who828/resillent-by-design) [Video](https://www.youtube.com/watch?v=_yEz9-Vu8YM&feature=em-uploademail)
