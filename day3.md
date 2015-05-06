@@ -51,7 +51,7 @@
 - Deploy and Manage Ruby on Rails Apps on AWS [Video](#)
   by Alex Wood, Trevor Rowe, Loren Segal
 
-- Coding: Art or Craft? [Video](https://www.youtube.com/watch?v=JZ2FBQjNm14)
+- [Coding: Art or Craft?](https://speakerdeck.com/emilyxxie/coding-art-or-craft) [Video](https://www.youtube.com/watch?v=JZ2FBQjNm14)
   by Emily Xie
 
 - The power of cache in a slow world [Video](#)
