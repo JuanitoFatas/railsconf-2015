@@ -36,7 +36,7 @@
 - [Ambitious Capybara](https://speakerdeck.com/ecbypi/ambitious-capybara) [Video](https://www.youtube.com/watch?v=kyqA8R7ZRWI)
   by Eduardo Gutierrez
 
-- AMS, API, Rails and a developer, a Love Story [Video](#)
+- [AMS, API, Rails and a developer, a Love Story](https://speakerdeck.com/joaomdmoura/ams-api-rails-and-a-developer-a-love-story) [Video](#)
   by João Moura
 
 - Beyond Hogwarts: A Half-Blood's Perspective on Inclusive Magical Education [Video](#)
