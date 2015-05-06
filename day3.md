@@ -9,10 +9,10 @@
 - Using JavaScript from the Future in Your Rails App Today [Video](#)
   by Steve Kinney
 
-- Making Data Dance [Video](#)
+- [Making Data Dance](https://speakerdeck.com/barrettclark/making-data-dance) [Video](#)
   by Barrett Clark
 
-- Ruby Debugger Internals [Video](#)
+- [Ruby Debugger Internals](https://speakerdeck.com/denofevil/ruby-debugger-internals) [Video](#)
   by Dennis Ushakov
 
 - http://exploration [Video](#)
