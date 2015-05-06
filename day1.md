@@ -39,7 +39,7 @@
 - [Slightly Less Painful Time Zones](https://speakerdeck.com/kwugirl/slightly-less-painful-time-zones) [Video](#)
   by Katherine Wu
 
-- Understanding Rails test types in RSpec [Video](https://www.youtube.com/watch?v=SOi_1reKn8M)
+- [Understanding Rails test types in RSpec](https://speakerdeck.com/samphippen/understanding-rails-test-types-in-rspec) [Video](https://www.youtube.com/watch?v=SOi_1reKn8M)
   by Sam Phippen
 
 - Implementing a Strong Code-Review Culture [Video](https://www.youtube.com/watch?v=PJjmw9TRB7s)
