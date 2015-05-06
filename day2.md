@@ -39,7 +39,7 @@
 - [AMS, API, Rails and a developer, a Love Story](https://speakerdeck.com/joaomdmoura/ams-api-rails-and-a-developer-a-love-story) [Video](#)
   by João Moura
 
-- Beyond Hogwarts: A Half-Blood's Perspective on Inclusive Magical Education [Video](#)
+- [Beyond Hogwarts: A Half-Blood's Perspective on Inclusive Magical Education](https://speakerdeck.com/jaimelynschatz/beyond-hogwarts) [Video](#)
   by JaimeLynSchatz
 
 - [Dynamically Sassy](https://speakerdeck.com/jfairbank/dynamically-sassy) [Video](https://www.youtube.com/watch?v=ouGWyZfGZ8M)
