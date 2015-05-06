@@ -3,7 +3,7 @@
 - [What Comes After MVC](https://speakerdeck.com/pushcx/what-comes-after-mvc-railsconf-2015) [Video](https://www.youtube.com/watch?v=uFpXKLSREQo)
   by Peter Harkins
 
-- Designing a Great Ruby API - How We're Simplifying Rails 5 [Video](#)
+- [Designing a Great Ruby API - How We're Simplifying Rails 5](https://speakerdeck.com/sgrif/designing-a-great-ruby-api-how-were-simplifying-rails-5) [Video](#)
   by Sean Griffin
 
 - Using JavaScript from the Future in Your Rails App Today [Video](#)
