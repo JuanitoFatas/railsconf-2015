@@ -45,7 +45,7 @@
 - Implementing a Strong Code-Review Culture [Video](https://www.youtube.com/watch?v=PJjmw9TRB7s)
   by Derek Prior
 
-- Scaling Rails for Black Friday and Cyber Monday [Video](#)
+- [Scaling Rails for Black Friday and Cyber Monday](https://speakerdeck.com/cjoudrey/cyber-monday-at-shopify) [Video](#)
   by Christian Joudrey
 
 - [Breaking Down the Barrier: Demystifying Contributing to Rails](https://speakerdeck.com/eileencodes/breaking-down-the-barrier-demystifying-contributing-to-rails) [Video](https://www.youtube.com/watch?v=7zoD6NZy6vY)
