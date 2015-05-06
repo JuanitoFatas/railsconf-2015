@@ -75,7 +75,7 @@
 - Internet of Things: Connecting Rails with the Real World [Video](#)
   by Karim Butt
 
-- Rapid data modeling using ActiveRecord and the JSON data type [Video](#)
+- [Rapid data modeling using ActiveRecord and the JSON data type](https://speakerdeck.com/dfurber/rapid-data-modeling-in-activerecord-with-the-json-data-type) [Video](#)
   by David Furber
 
 - What I've Learned in 7 Years of Podcasting about Ruby [Video](#)
