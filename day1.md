@@ -72,7 +72,7 @@
 - Adventures in Federating Authorization and Authentication with OAuth [Video](#)
   by Lance Gleason
 
-- Amelia Bedelia Learns to Code [Video](https://www.youtube.com/watch?v=bSbla50tqZE)
+- [Amelia Bedelia Learns to Code](https://speakerdeck.com/kyfast/amelia-bedelia-learns-to-code) [Video](https://www.youtube.com/watch?v=bSbla50tqZE)
   by Kylie Stradley
 
 - [Teaching GitHub for Poets](https://speakerdeck.com/ktheory/teaching-github-for-poets-railsconf-2015) [Video](#)
