@@ -6,7 +6,7 @@
 - Now Hear This! Putting Real-Time Voice, Video and Text into Rails [Video](#)
   by Ben Klang
 
-- Why We're Bad At Hiring (And How To Fix It) [Video](#)
+- [Why We're Bad At Hiring (And How To Fix It)](https://speakerdeck.com/kerrizor/why-were-bad-at-hiring-and-how-to-fix-it) [Video](#)
   by Kerri Miller
 
 - [SVG charts and graphics with Ruby](https://speakerdeck.com/snhorne/svg-charts-and-graphs-with-ruby) [Video](https://www.youtube.com/watch?v=yCCtDpW_apk)
