@@ -51,7 +51,7 @@
 - [Getting a Handle on Legacy Code](https://speakerdeck.com/randycoulman/getting-a-handle-on-legacy-code) [Video](#)
   by Randy Coulman
 
-- RSpec: It's Not Actually Magic [Video](https://www.youtube.com/watch?v=Libc0-0TRg4)
+- [RSpec: It's Not Actually Magic](https://speakerdeck.com/noelrap/rspec-it-isnt-actually-magic) [Video](https://www.youtube.com/watch?v=Libc0-0TRg4)
   by Noel Rappin
 
 - [High performance APIs in Ruby using ActiveRecord and Goliath](https://speakerdeck.com/colindkelley/high-performance-apis-in-ruby-using-activerecord-and-goliath-plus-synchrony-plus-eventmachine)
