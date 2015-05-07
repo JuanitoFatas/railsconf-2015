@@ -24,7 +24,7 @@
 - [ActiveJob: A Service Oriented Architecture](https://speakerdeck.com/andycroll/activejob-a-service-oriented-architecture) [Video](#)
   by Andy Croll
 
-- [Your Front End Framework is Overkill - Server Side Javascript w/ Rails](https://speakerdeck.com/aantix/rails-1) [Video](#)
+- [Your Front End Framework is Overkill - Server Side Javascript w/ Rails](https://speakerdeck.com/aantix/rails-1) [Video](https://www.youtube.com/watch?v=7YLYZQJZB0E)
   by Jim Jones
 
 - Data Warehouses and Multi-Dimensional Data Analysis [Video](#)
