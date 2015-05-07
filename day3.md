@@ -45,7 +45,7 @@
 - A new kind of analytics: actionable performance analysis [Video](#)
   by Paola Moretto
 
-- Delivering Autonomous Rails Apps behind Corporate Firewalls [Video](#)
+- Delivering Autonomous Rails Apps behind Corporate Firewalls [Video](https://www.youtube.com/watch?v=V6e_A9VzPy8)
   by Nick Merwin
 
 - Deploy and Manage Ruby on Rails Apps on AWS [Video](#)
