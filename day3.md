@@ -57,7 +57,7 @@
 - [The power of cache in a slow world](https://speakerdeck.com/mmay/the-power-of-cache-in-a-slow-world) [Video](#)
   by Michael May
 
-- Rails and EmberCLI: an integration love story [Video](#)
+- Rails and EmberCLI: an integration love story [Video](https://www.youtube.com/watch?v=NnquHUlh0Pk)
   by Jonathan Jackson
 
 - [Voila, Indexes! A Look at Some Simple Preventative Magick](https://speakerdeck.com/jamis/voila-indexes-a-look-at-some-simple-preventative-magick) [Video](#)
