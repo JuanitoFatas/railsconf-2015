@@ -30,7 +30,7 @@
 - Data Warehouses and Multi-Dimensional Data Analysis [Video](#)
   by Raimonds Simanovskis
 
-- See You On the Trail [Video](#)
+- [See You On the Trail](https://www.youtube.com/watch?v=qSxN4mlyQO8) [Video](#)
   by Nick Sutterer
 
 - Bringing UX to Your Code [Video](https://www.youtube.com/watch?v=PI7g4TqLaTY)
