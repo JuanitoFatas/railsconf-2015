@@ -39,7 +39,7 @@
 - [The World of Rails Security](https://speakerdeck.com/presidentbeef/the-world-of-rails-security-railsconf-2015) [Video](#)
   by Justin Collins
 
-- [React.js on Rails](https://speakerdeck.com/chantastic/reactjs-on-rails-slides-only) [Slide with notes](https://speakerdeck.com/chantastic/reactjs-on-rails) [Video](#)
+- [React.js on Rails](https://speakerdeck.com/chantastic/reactjs-on-rails-slides-only) [Slide with notes](https://speakerdeck.com/chantastic/reactjs-on-rails) [Video](https://www.youtube.com/watch?v=kTSsZrub5iE)
   by Michael Chan
 
 - A new kind of analytics: actionable performance analysis [Video](#)
