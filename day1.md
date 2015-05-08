@@ -75,7 +75,7 @@
 - [Amelia Bedelia Learns to Code](https://speakerdeck.com/kyfast/amelia-bedelia-learns-to-code) [Video](https://www.youtube.com/watch?v=bSbla50tqZE)
   by Kylie Stradley
 
-- [Teaching GitHub for Poets](https://speakerdeck.com/ktheory/teaching-github-for-poets-railsconf-2015) [Video](#)
+- [Teaching GitHub for Poets](https://speakerdeck.com/ktheory/teaching-github-for-poets-railsconf-2015) [Video](https://www.youtube.com/watch?v=_DOKUvitb4o)
   by Aaron Suggs
 
 - Test Driving your Rails Infrastructure with Chef [Video](#)
